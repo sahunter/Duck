@@ -1,2 +1,2 @@
 # Duck
-![image](https://github.com/sahunter/GuitarV2.0/blob/master/DuckTestshow.PNG)
+![image](https://github.com/sahunter/Duck/blob/master/DuckTestshow.PNG)
